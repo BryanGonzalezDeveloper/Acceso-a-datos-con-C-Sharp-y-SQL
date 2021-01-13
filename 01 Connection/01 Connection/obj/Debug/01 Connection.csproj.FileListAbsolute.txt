@@ -1,0 +1,6 @@
+D:\C#\Ado.Net\01 Connection\01 Connection\bin\Debug\01 Connection.exe
+D:\C#\Ado.Net\01 Connection\01 Connection\bin\Debug\01 Connection.pdb
+D:\C#\Ado.Net\01 Connection\01 Connection\obj\Debug\01 Connection.csprojAssemblyReference.cache
+D:\C#\Ado.Net\01 Connection\01 Connection\obj\Debug\01 Connection.csproj.CoreCompileInputs.cache
+D:\C#\Ado.Net\01 Connection\01 Connection\obj\Debug\01 Connection.exe
+D:\C#\Ado.Net\01 Connection\01 Connection\obj\Debug\01 Connection.pdb

@@ -1,0 +1,6 @@
+D:\C#\Ado.Net\03 Eliminar y actualizar registros\03 Eliminar y actualizar registros\bin\Debug\03 Eliminar y actualizar registros.exe
+D:\C#\Ado.Net\03 Eliminar y actualizar registros\03 Eliminar y actualizar registros\bin\Debug\03 Eliminar y actualizar registros.pdb
+D:\C#\Ado.Net\03 Eliminar y actualizar registros\03 Eliminar y actualizar registros\obj\Debug\03 Eliminar y actualizar registros.csprojAssemblyReference.cache
+D:\C#\Ado.Net\03 Eliminar y actualizar registros\03 Eliminar y actualizar registros\obj\Debug\03 Eliminar y actualizar registros.csproj.CoreCompileInputs.cache
+D:\C#\Ado.Net\03 Eliminar y actualizar registros\03 Eliminar y actualizar registros\obj\Debug\03 Eliminar y actualizar registros.exe
+D:\C#\Ado.Net\03 Eliminar y actualizar registros\03 Eliminar y actualizar registros\obj\Debug\03 Eliminar y actualizar registros.pdb

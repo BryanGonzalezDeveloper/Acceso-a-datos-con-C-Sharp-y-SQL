@@ -1,0 +1,6 @@
+D:\C#\Ado.Net\02 leer registros\02 leer registros\bin\Debug\02 leer registros.exe
+D:\C#\Ado.Net\02 leer registros\02 leer registros\bin\Debug\02 leer registros.pdb
+D:\C#\Ado.Net\02 leer registros\02 leer registros\obj\Debug\02 leer registros.csprojAssemblyReference.cache
+D:\C#\Ado.Net\02 leer registros\02 leer registros\obj\Debug\02 leer registros.csproj.CoreCompileInputs.cache
+D:\C#\Ado.Net\02 leer registros\02 leer registros\obj\Debug\02 leer registros.exe
+D:\C#\Ado.Net\02 leer registros\02 leer registros\obj\Debug\02 leer registros.pdb

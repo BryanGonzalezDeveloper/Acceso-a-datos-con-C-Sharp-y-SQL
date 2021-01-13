@@ -1,0 +1,6 @@
+D:\C#\Ado.Net\05 Datatable\05 Datatable\bin\Debug\05 Datatable.exe
+D:\C#\Ado.Net\05 Datatable\05 Datatable\bin\Debug\05 Datatable.pdb
+D:\C#\Ado.Net\05 Datatable\05 Datatable\obj\Debug\05 Datatable.csprojAssemblyReference.cache
+D:\C#\Ado.Net\05 Datatable\05 Datatable\obj\Debug\05 Datatable.csproj.CoreCompileInputs.cache
+D:\C#\Ado.Net\05 Datatable\05 Datatable\obj\Debug\05 Datatable.exe
+D:\C#\Ado.Net\05 Datatable\05 Datatable\obj\Debug\05 Datatable.pdb

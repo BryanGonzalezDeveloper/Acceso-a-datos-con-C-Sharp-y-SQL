@@ -1,0 +1,6 @@
+D:\C#\Ado.Net\04DataAdapter\04DataAdapter\bin\Debug\04DataAdapter.exe
+D:\C#\Ado.Net\04DataAdapter\04DataAdapter\bin\Debug\04DataAdapter.pdb
+D:\C#\Ado.Net\04DataAdapter\04DataAdapter\obj\Debug\04DataAdapter.csprojAssemblyReference.cache
+D:\C#\Ado.Net\04DataAdapter\04DataAdapter\obj\Debug\04DataAdapter.csproj.CoreCompileInputs.cache
+D:\C#\Ado.Net\04DataAdapter\04DataAdapter\obj\Debug\04DataAdapter.exe
+D:\C#\Ado.Net\04DataAdapter\04DataAdapter\obj\Debug\04DataAdapter.pdb

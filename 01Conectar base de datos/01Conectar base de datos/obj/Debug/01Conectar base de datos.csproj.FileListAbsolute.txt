@@ -1,0 +1,6 @@
+D:\C#\Ado.Net\01Conectar base de datos\01Conectar base de datos\bin\Debug\01Conectar base de datos.exe
+D:\C#\Ado.Net\01Conectar base de datos\01Conectar base de datos\bin\Debug\01Conectar base de datos.pdb
+D:\C#\Ado.Net\01Conectar base de datos\01Conectar base de datos\obj\Debug\01Conectar base de datos.csprojAssemblyReference.cache
+D:\C#\Ado.Net\01Conectar base de datos\01Conectar base de datos\obj\Debug\01Conectar base de datos.csproj.CoreCompileInputs.cache
+D:\C#\Ado.Net\01Conectar base de datos\01Conectar base de datos\obj\Debug\01Conectar base de datos.exe
+D:\C#\Ado.Net\01Conectar base de datos\01Conectar base de datos\obj\Debug\01Conectar base de datos.pdb

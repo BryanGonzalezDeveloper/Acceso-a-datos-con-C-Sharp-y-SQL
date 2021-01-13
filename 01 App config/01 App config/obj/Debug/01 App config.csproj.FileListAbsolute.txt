@@ -1,0 +1,7 @@
+D:\C#\Ado.Net\01 App config\01 App config\bin\Debug\01 App config.exe.config
+D:\C#\Ado.Net\01 App config\01 App config\bin\Debug\01 App config.exe
+D:\C#\Ado.Net\01 App config\01 App config\bin\Debug\01 App config.pdb
+D:\C#\Ado.Net\01 App config\01 App config\obj\Debug\01 App config.csprojAssemblyReference.cache
+D:\C#\Ado.Net\01 App config\01 App config\obj\Debug\01 App config.csproj.CoreCompileInputs.cache
+D:\C#\Ado.Net\01 App config\01 App config\obj\Debug\01 App config.exe
+D:\C#\Ado.Net\01 App config\01 App config\obj\Debug\01 App config.pdb
